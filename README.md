@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**diogomatoschaves/diogomatoschaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Diogo, welcome to my page!
 
-Here are some ideas to get you started:
+I work mostly with scientific python libraries, as well as with python backend frameworks and javascript for frontend development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on a quant project.
+
+I also write on [medium](https://medium.com/@diogomatoschaves) sometimes.
+
+If you find any of my projects useful leave a ⭐, it will be appreciated!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=diogomatoschaves&theme=prussian&show_icons=true&count_private=true%22">
+</p>
