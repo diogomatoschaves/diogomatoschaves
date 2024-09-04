@@ -4,8 +4,6 @@ I'm Diogo, welcome to my page!
 
 I work mostly with scientific python libraries, as well as with python backend frameworks and javascript for frontend development. 
 
-Currently working on a quant project.
-
 I also write on [medium](https://medium.com/@diogomatoschaves) sometimes.
 
 If you find any of my projects useful leave a ⭐, it will be appreciated!
