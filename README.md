@@ -2,7 +2,7 @@
 
 I'm Diogo, welcome to my page!
 
-I work mostly with scientific python libraries, as well as with python backend frameworks and javascript for frontend development. 
+I develop and contribute mostly to python libraries / packages. 
 
 I also write on [medium](https://medium.com/@diogomatoschaves) sometimes.
 
